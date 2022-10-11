@@ -8,6 +8,16 @@
 
 }
 
+body{
+    background-color: whitesmoke;
+}
+
+header{
+    height: 4rem;
+    background-color: white;
+}
+
 #main-title{
     display: inline;
+    vertical-align: 45%;
 }
