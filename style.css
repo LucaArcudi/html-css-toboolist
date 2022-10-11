@@ -64,3 +64,31 @@ hr{
 section.lists{
     margin-top: 2.5rem;
 }
+
+ul{
+    list-style: none;
+}
+
+#triangle{
+    font-size: 1rem;
+}
+
+.crossmark{
+    color: red;
+    border-radius: 100%;
+    border: 1px solid  red;
+    padding: 0.3rem;
+}
+
+.checkmark{
+    color: aqua;
+    border-radius: 100%;
+    border: 1px solid aqua;
+    padding: 0.3rem;
+}
+
+
+li{
+    margin-top: 1rem;
+}
+
