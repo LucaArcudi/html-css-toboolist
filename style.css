@@ -92,3 +92,34 @@ li{
     margin-top: 1rem;
 }
 
+.tag{
+   color: white;
+   font-size: 0.8rem;
+   padding: 0.35rem;
+   border-radius: 2rem;
+}
+
+
+.editorial{
+    background-color: #52acff;
+}
+
+.q1goals{
+    background-color: rgb(138, 76, 196);
+}
+
+.recruiting{
+    background-color: rgb(43, 199, 147);
+}
+
+.mobile{
+    background-color: rgb(255, 166, 0);
+}
+
+.website{
+    background-color: rgb(237, 101, 255);
+}
+
+.sales{
+    background-color: rgb(145, 255, 0);
+}
