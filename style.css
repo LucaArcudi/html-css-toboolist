@@ -4,10 +4,6 @@
     box-sizing: border-box;
 }
 
-#logo{
-
-}
-
 body{
     background-color: whitesmoke;
 }
@@ -15,9 +11,56 @@ body{
 header{
     height: 4rem;
     background-color: white;
+    margin-bottom: 4rem;
 }
 
 #main-title{
     display: inline;
     vertical-align: 45%;
+}
+
+main{
+    width: 75%;
+    margin: 0% auto;
+    background-color: white;
+}
+
+.nav-section{
+    margin-left: 3.5rem;
+}
+
+.button{
+    padding: 0.3rem;
+    border: 1px solid  lightgray;
+    border-radius: 0.4rem;
+    margin: 1rem 0rem 0.6rem;
+}
+
+#add-task-button{
+    background-color: #52acff;
+    color: white;
+}
+
+#add-section-button{
+    color: lightgray;
+    background-color: white;
+}
+
+.lists{
+    margin-left: 3.5rem;
+}
+
+.container
+{
+    margin-bottom: 2rem;
+}
+
+hr{
+    height: 0.2rem;
+    background-color: whitesmoke;
+    border: none;   
+}
+
+section.lists{
+    margin-top: 2.5rem;
 }
